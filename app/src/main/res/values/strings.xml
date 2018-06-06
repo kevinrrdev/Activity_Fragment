@@ -2,6 +2,10 @@
     <string name="app_name">Activity_Fragment</string>
     <string name="tv1">Hola mundo</string>
     <string name="btnHola">iniciar</string>
+    <string name="tvFragment1">Hola Fragment1</string>
+    <string name="tvFragment2">Hola Fragmento 2</string>
 
+    <string name="name1">Inicio</string>
+    <string name="name2">Casa</string>
 
 </resources>
