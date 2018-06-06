@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Activity_Fragment</string>
+    <string name="tv1">Hola mundo</string>
+    <string name="btnHola">iniciar</string>
+
+
 </resources>
